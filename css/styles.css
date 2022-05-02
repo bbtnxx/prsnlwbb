@@ -1,15 +1,30 @@
 <style >
-
-body { background-color: #FEFBE7
+body {
+background-color: white;
 }
- hr {
-border-style:none;
-border-top-style:dotted;
-border-color: grey;
-border-width: 6px;
-width: 10%;
- }
-
+hr {
+  border-style:none;
+  border-top-style:dotted;
+  border-color: grey;
+  border-width: 6px;
+  width: 10%;
+}
 img { height: 250px;}
+h1 { color:#66BFBF;
+  font-family: cursive;
+}
+h3 { color:#06113C;
+font-family: sans-serif;
+}
+p {
+  font-family: cursive;
+}
+
+
+/*
+ასე იწერება css-ში კომენტარი. 
+
+*/
+
 
 </style>
